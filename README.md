@@ -37,7 +37,7 @@
 `React.js` `JavaScript` `HTML`
 
 ## Ссылка на сайт
-[Кошачий пинтерест](https://nabandz.github.io/frontend-challenge/)
+[Кошачий пинтерест](https://karaciubamikhail.github.io/frontend-challenge/)
 
 ## Установка и запуск проекта
 Клонировать репозиторий
